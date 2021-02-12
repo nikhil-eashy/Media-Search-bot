@@ -28,7 +28,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 START_MSG = """
 **Hi, I'm wallpaperdownload/Search bot**
 
-Here you can search wallpapers in inline mode.to use me you should join our group @n_a_c_bot_developers Just press following buttons and start searching.
+Here you can search wallpapers in inline mode. to use me you should join our group @n_a_c_bot_developers Just press following buttons and start searching.
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = 'Checkout {username} for download HD wallpapers'
